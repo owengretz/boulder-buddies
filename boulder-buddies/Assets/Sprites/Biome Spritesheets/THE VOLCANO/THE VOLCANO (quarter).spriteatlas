@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: THE VOLCANO (quarter)
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+    totalSpriteSurfaceArea: 120050
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 4015432410426317326, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 7404432174565926099, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 2798419307263710540, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 7076191395360158252, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 3637351474508199825, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 4799245359569061484, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 5375912922142791173, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -1585560939044999747, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 2585857602019188168, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -7112866506187014723, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 784203638289374102, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 3181012096664164889, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 2306845851392241440, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -2662144883468319263, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -280688314081378265, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 3608555487704130070, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 9041250322990524718, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -2129743379323944579, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 8174436643832131072, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -1485289374951971414, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -6213568688295328994, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 1736010786907643369, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 6085358864992778020, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -3609138772551541856, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -305457745521708369, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -3190394317224756617, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 101482376964900591, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -7831224151590694871, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 6649026863656074215, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 8897401955138136979, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 178898202418477260, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -5013385655103182003, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -3935289003584429976, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 7119086148963976718, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -6537234439465295693, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 1733342395899531446, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -5690453877550273442, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 4034851666278206592, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -416601258010603594, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -5385601554041323165, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -5371772001753033743, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 3341620435608558288, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 7175546619385540118, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -6523218726770707450, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -8226753851802037114, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 814887524520986065, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 667305931083097931, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -1302622108289872868, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -2874052219393219271, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 2739758986373669071, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -1372503972546824208, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 665119454564782123, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 7356641653925257578, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 6133835821679575653, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 6929722859162202363, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -3789500292856782729, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -8222339732293889821, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 7292612063540364032, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 5676925927531966182, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -7704516266468217841, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -5142037896904868063, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -3950490050320842022, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -639863013821968009, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 6332198889639216340, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -3645726867035426107, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 7537101410036953343, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -2768157549859275088, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 1685949270772241815, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 5034568959163473703, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -1787051400708734300, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -4647483085809324126, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 6213414993185008760, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -2821244044652217218, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -3564679058552911644, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -251737209211527573, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 8227186385493403665, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -5101045283946064524, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -2942105789468208584, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 8753978346982494878, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 1161287817917579921, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -6856499465148033410, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 7088726273602816835, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 8442699115845310573, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -7389591581651398323, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -4689004397995026912, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -6159688182893033746, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 387686336043095740, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 7636137612044373611, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 1466059397974690860, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 3782443906833528018, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 9076527619291303448, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -6391088073279752032, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -8535795728720977483, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -7556175422515438847, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 5004895343795332133, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 2983699324396588379, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: 5142590358753110997, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  - {fileID: -5051554282369779164, guid: 3c876933676e68149898980cf9a54b11, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - THE VOLCANO (quarter)_6
+  - THE VOLCANO (quarter)_7
+  - THE VOLCANO (quarter)_4
+  - THE VOLCANO (quarter)_5
+  - THE VOLCANO (quarter)_2
+  - THE VOLCANO (quarter)_3
+  - THE VOLCANO (quarter)_0
+  - THE VOLCANO (quarter)_1
+  - THE VOLCANO (quarter)_60
+  - THE VOLCANO (quarter)_61
+  - THE VOLCANO (quarter)_8
+  - THE VOLCANO (quarter)_62
+  - THE VOLCANO (quarter)_9
+  - THE VOLCANO (quarter)_63
+  - THE VOLCANO (quarter)_64
+  - THE VOLCANO (quarter)_65
+  - THE VOLCANO (quarter)_15
+  - THE VOLCANO (quarter)_66
+  - THE VOLCANO (quarter)_14
+  - THE VOLCANO (quarter)_67
+  - THE VOLCANO (quarter)_17
+  - THE VOLCANO (quarter)_68
+  - THE VOLCANO (quarter)_16
+  - THE VOLCANO (quarter)_69
+  - THE VOLCANO (quarter)_11
+  - THE VOLCANO (quarter)_10
+  - THE VOLCANO (quarter)_13
+  - THE VOLCANO (quarter)_12
+  - THE VOLCANO (quarter)_88
+  - THE VOLCANO (quarter)_89
+  - THE VOLCANO (quarter)_19
+  - THE VOLCANO (quarter)_18
+  - THE VOLCANO (quarter)_82
+  - THE VOLCANO (quarter)_83
+  - THE VOLCANO (quarter)_80
+  - THE VOLCANO (quarter)_39
+  - THE VOLCANO (quarter)_81
+  - THE VOLCANO (quarter)_38
+  - THE VOLCANO (quarter)_86
+  - THE VOLCANO (quarter)_37
+  - THE VOLCANO (quarter)_87
+  - THE VOLCANO (quarter)_36
+  - THE VOLCANO (quarter)_84
+  - THE VOLCANO (quarter)_35
+  - THE VOLCANO (quarter)_85
+  - THE VOLCANO (quarter)_34
+  - THE VOLCANO (quarter)_33
+  - THE VOLCANO (quarter)_32
+  - THE VOLCANO (quarter)_31
+  - THE VOLCANO (quarter)_30
+  - THE VOLCANO (quarter)_73
+  - THE VOLCANO (quarter)_72
+  - THE VOLCANO (quarter)_71
+  - THE VOLCANO (quarter)_70
+  - THE VOLCANO (quarter)_46
+  - THE VOLCANO (quarter)_77
+  - THE VOLCANO (quarter)_47
+  - THE VOLCANO (quarter)_76
+  - THE VOLCANO (quarter)_44
+  - THE VOLCANO (quarter)_75
+  - THE VOLCANO (quarter)_45
+  - THE VOLCANO (quarter)_59
+  - THE VOLCANO (quarter)_74
+  - THE VOLCANO (quarter)_42
+  - THE VOLCANO (quarter)_58
+  - THE VOLCANO (quarter)_43
+  - THE VOLCANO (quarter)_40
+  - THE VOLCANO (quarter)_79
+  - THE VOLCANO (quarter)_41
+  - THE VOLCANO (quarter)_78
+  - THE VOLCANO (quarter)_28
+  - THE VOLCANO (quarter)_51
+  - THE VOLCANO (quarter)_29
+  - THE VOLCANO (quarter)_50
+  - THE VOLCANO (quarter)_53
+  - THE VOLCANO (quarter)_48
+  - THE VOLCANO (quarter)_52
+  - THE VOLCANO (quarter)_24
+  - THE VOLCANO (quarter)_49
+  - THE VOLCANO (quarter)_55
+  - THE VOLCANO (quarter)_25
+  - THE VOLCANO (quarter)_95
+  - THE VOLCANO (quarter)_54
+  - THE VOLCANO (quarter)_26
+  - THE VOLCANO (quarter)_94
+  - THE VOLCANO (quarter)_57
+  - THE VOLCANO (quarter)_27
+  - THE VOLCANO (quarter)_97
+  - THE VOLCANO (quarter)_56
+  - THE VOLCANO (quarter)_20
+  - THE VOLCANO (quarter)_96
+  - THE VOLCANO (quarter)_21
+  - THE VOLCANO (quarter)_91
+  - THE VOLCANO (quarter)_22
+  - THE VOLCANO (quarter)_90
+  - THE VOLCANO (quarter)_23
+  - THE VOLCANO (quarter)_93
+  - THE VOLCANO (quarter)_92
+  m_Tag: THE VOLCANO (quarter)
+  m_IsVariant: 0

@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: THE GRASSLANDS (quarter)
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+    totalSpriteSurfaceArea: 120050
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -8459813325052274391, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -8527272989912323846, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 4041034263975401962, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -710608979889563773, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 5334482248688972007, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 8843012745054316696, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -8420308288843199779, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -4551332324491956427, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 7594154664257897548, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 35242635262393737, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 7754439061170490242, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 6524391256765190839, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -7527224309659800093, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -1826396736070416962, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -2081421869521098220, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -6795251455578689206, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 1003822045876129522, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 5443491417676901832, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -2349578764297009893, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -7235182378456318140, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 8698126062858465558, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -7660177724057832000, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 5923929102747453213, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 3954089329083139454, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -5335019671719554042, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 7244044538392992767, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 3580859935668436050, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -1912734576720948692, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -856514100373423763, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 2020192428218568175, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -686611277848050429, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -4682998531736402447, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -8131432920503552541, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -8647978389126954607, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 6910478146779220876, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 8997526081087827955, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -3880263516982526022, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 3776994754214095361, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 305661238455351104, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 3641206290301758555, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -2627830983420873271, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 8866312155963535395, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -7977541600083574471, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 7579894524102313979, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -8824449531702919017, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -1357186541497657211, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -1109163438440288597, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -2532357124029315974, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 1716415521213415431, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -5189037437015710108, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -4139481184850598898, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 2057428321443788101, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -7112845542909337032, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -7684760910625488082, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -1849777865254500288, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 6499319795856356416, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -6852977903383345808, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -669608660954822024, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 7854593175523222450, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -4154778324922552871, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -6343984984467500875, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -7513983313921992752, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 1692588536080852646, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 7104544722161683279, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 2549272457379605218, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -3402335115776062895, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -5440194892067742794, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -7703566788830644311, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -7145551379193486566, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -8866622656953920893, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -2952460235761077562, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 4277812321715394413, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 6929558338023016965, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 753876356396276486, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -6275168170319755416, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 2291326390009663188, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 4207690089596031570, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -1336840992512136825, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 3572210008595913879, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -4169226272613351841, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -624676515139175225, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 2207704428480487456, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -3954090099124507358, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 6732037896956561868, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -5425353516828523459, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -726921657398437548, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -5358593307349234388, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 8787621511469650989, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -4317673976561521862, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 3383045237086574040, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 2746495932825613452, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 5013655409623882515, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 1483624742212095354, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 5498566533754214584, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: 5811820719611943388, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -387667653426681633, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -7874352569558993803, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  - {fileID: -4530608854591900730, guid: 1056276c60f56a94ebae81eb54b40d3b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - THE GRASSLANDS (quarter)_71
+  - THE GRASSLANDS (quarter)_70
+  - THE GRASSLANDS (quarter)_73
+  - THE GRASSLANDS (quarter)_72
+  - THE GRASSLANDS (quarter)_75
+  - THE GRASSLANDS (quarter)_74
+  - THE GRASSLANDS (quarter)_77
+  - THE GRASSLANDS (quarter)_17
+  - THE GRASSLANDS (quarter)_76
+  - THE GRASSLANDS (quarter)_16
+  - THE GRASSLANDS (quarter)_79
+  - THE GRASSLANDS (quarter)_15
+  - THE GRASSLANDS (quarter)_78
+  - THE GRASSLANDS (quarter)_14
+  - THE GRASSLANDS (quarter)_13
+  - THE GRASSLANDS (quarter)_12
+  - THE GRASSLANDS (quarter)_28
+  - THE GRASSLANDS (quarter)_11
+  - THE GRASSLANDS (quarter)_29
+  - THE GRASSLANDS (quarter)_10
+  - THE GRASSLANDS (quarter)_22
+  - THE GRASSLANDS (quarter)_23
+  - THE GRASSLANDS (quarter)_20
+  - THE GRASSLANDS (quarter)_19
+  - THE GRASSLANDS (quarter)_21
+  - THE GRASSLANDS (quarter)_18
+  - THE GRASSLANDS (quarter)_26
+  - THE GRASSLANDS (quarter)_97
+  - THE GRASSLANDS (quarter)_27
+  - THE GRASSLANDS (quarter)_96
+  - THE GRASSLANDS (quarter)_24
+  - THE GRASSLANDS (quarter)_95
+  - THE GRASSLANDS (quarter)_25
+  - THE GRASSLANDS (quarter)_94
+  - THE GRASSLANDS (quarter)_93
+  - THE GRASSLANDS (quarter)_92
+  - THE GRASSLANDS (quarter)_91
+  - THE GRASSLANDS (quarter)_90
+  - THE GRASSLANDS (quarter)_8
+  - THE GRASSLANDS (quarter)_9
+  - THE GRASSLANDS (quarter)_4
+  - THE GRASSLANDS (quarter)_5
+  - THE GRASSLANDS (quarter)_6
+  - THE GRASSLANDS (quarter)_7
+  - THE GRASSLANDS (quarter)_0
+  - THE GRASSLANDS (quarter)_1
+  - THE GRASSLANDS (quarter)_2
+  - THE GRASSLANDS (quarter)_3
+  - THE GRASSLANDS (quarter)_48
+  - THE GRASSLANDS (quarter)_49
+  - THE GRASSLANDS (quarter)_59
+  - THE GRASSLANDS (quarter)_58
+  - THE GRASSLANDS (quarter)_88
+  - THE GRASSLANDS (quarter)_40
+  - THE GRASSLANDS (quarter)_89
+  - THE GRASSLANDS (quarter)_41
+  - THE GRASSLANDS (quarter)_39
+  - THE GRASSLANDS (quarter)_42
+  - THE GRASSLANDS (quarter)_38
+  - THE GRASSLANDS (quarter)_43
+  - THE GRASSLANDS (quarter)_53
+  - THE GRASSLANDS (quarter)_84
+  - THE GRASSLANDS (quarter)_44
+  - THE GRASSLANDS (quarter)_52
+  - THE GRASSLANDS (quarter)_68
+  - THE GRASSLANDS (quarter)_85
+  - THE GRASSLANDS (quarter)_45
+  - THE GRASSLANDS (quarter)_51
+  - THE GRASSLANDS (quarter)_69
+  - THE GRASSLANDS (quarter)_35
+  - THE GRASSLANDS (quarter)_86
+  - THE GRASSLANDS (quarter)_46
+  - THE GRASSLANDS (quarter)_50
+  - THE GRASSLANDS (quarter)_66
+  - THE GRASSLANDS (quarter)_34
+  - THE GRASSLANDS (quarter)_87
+  - THE GRASSLANDS (quarter)_47
+  - THE GRASSLANDS (quarter)_57
+  - THE GRASSLANDS (quarter)_67
+  - THE GRASSLANDS (quarter)_37
+  - THE GRASSLANDS (quarter)_80
+  - THE GRASSLANDS (quarter)_56
+  - THE GRASSLANDS (quarter)_64
+  - THE GRASSLANDS (quarter)_36
+  - THE GRASSLANDS (quarter)_81
+  - THE GRASSLANDS (quarter)_55
+  - THE GRASSLANDS (quarter)_65
+  - THE GRASSLANDS (quarter)_31
+  - THE GRASSLANDS (quarter)_82
+  - THE GRASSLANDS (quarter)_54
+  - THE GRASSLANDS (quarter)_62
+  - THE GRASSLANDS (quarter)_30
+  - THE GRASSLANDS (quarter)_83
+  - THE GRASSLANDS (quarter)_63
+  - THE GRASSLANDS (quarter)_33
+  - THE GRASSLANDS (quarter)_60
+  - THE GRASSLANDS (quarter)_32
+  - THE GRASSLANDS (quarter)_61
+  m_Tag: THE GRASSLANDS (quarter)
+  m_IsVariant: 0

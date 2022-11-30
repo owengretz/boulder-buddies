@@ -1,0 +1,2755 @@
+fileFormatVersion: 2
+guid: 3c876933676e68149898980cf9a54b11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5375912922142791173
+    second: THE VOLCANO (quarter)_0
+  - first:
+      213: -1585560939044999747
+    second: THE VOLCANO (quarter)_1
+  - first:
+      213: 3637351474508199825
+    second: THE VOLCANO (quarter)_2
+  - first:
+      213: 4799245359569061484
+    second: THE VOLCANO (quarter)_3
+  - first:
+      213: 2798419307263710540
+    second: THE VOLCANO (quarter)_4
+  - first:
+      213: 7076191395360158252
+    second: THE VOLCANO (quarter)_5
+  - first:
+      213: 4015432410426317326
+    second: THE VOLCANO (quarter)_6
+  - first:
+      213: 7404432174565926099
+    second: THE VOLCANO (quarter)_7
+  - first:
+      213: 784203638289374102
+    second: THE VOLCANO (quarter)_8
+  - first:
+      213: 2306845851392241440
+    second: THE VOLCANO (quarter)_9
+  - first:
+      213: -3190394317224756617
+    second: THE VOLCANO (quarter)_10
+  - first:
+      213: -305457745521708369
+    second: THE VOLCANO (quarter)_11
+  - first:
+      213: -7831224151590694871
+    second: THE VOLCANO (quarter)_12
+  - first:
+      213: 101482376964900591
+    second: THE VOLCANO (quarter)_13
+  - first:
+      213: 8174436643832131072
+    second: THE VOLCANO (quarter)_14
+  - first:
+      213: 9041250322990524718
+    second: THE VOLCANO (quarter)_15
+  - first:
+      213: 6085358864992778020
+    second: THE VOLCANO (quarter)_16
+  - first:
+      213: -6213568688295328994
+    second: THE VOLCANO (quarter)_17
+  - first:
+      213: -5013385655103182003
+    second: THE VOLCANO (quarter)_18
+  - first:
+      213: 178898202418477260
+    second: THE VOLCANO (quarter)_19
+  - first:
+      213: 3782443906833528018
+    second: THE VOLCANO (quarter)_20
+  - first:
+      213: -6391088073279752032
+    second: THE VOLCANO (quarter)_21
+  - first:
+      213: -7556175422515438847
+    second: THE VOLCANO (quarter)_22
+  - first:
+      213: 2983699324396588379
+    second: THE VOLCANO (quarter)_23
+  - first:
+      213: -2942105789468208584
+    second: THE VOLCANO (quarter)_24
+  - first:
+      213: -6856499465148033410
+    second: THE VOLCANO (quarter)_25
+  - first:
+      213: -7389591581651398323
+    second: THE VOLCANO (quarter)_26
+  - first:
+      213: 387686336043095740
+    second: THE VOLCANO (quarter)_27
+  - first:
+      213: -4647483085809324126
+    second: THE VOLCANO (quarter)_28
+  - first:
+      213: -2821244044652217218
+    second: THE VOLCANO (quarter)_29
+  - first:
+      213: 2739758986373669071
+    second: THE VOLCANO (quarter)_30
+  - first:
+      213: -2874052219393219271
+    second: THE VOLCANO (quarter)_31
+  - first:
+      213: -1302622108289872868
+    second: THE VOLCANO (quarter)_32
+  - first:
+      213: 667305931083097931
+    second: THE VOLCANO (quarter)_33
+  - first:
+      213: 814887524520986065
+    second: THE VOLCANO (quarter)_34
+  - first:
+      213: -6523218726770707450
+    second: THE VOLCANO (quarter)_35
+  - first:
+      213: 3341620435608558288
+    second: THE VOLCANO (quarter)_36
+  - first:
+      213: -5385601554041323165
+    second: THE VOLCANO (quarter)_37
+  - first:
+      213: 4034851666278206592
+    second: THE VOLCANO (quarter)_38
+  - first:
+      213: 1733342395899531446
+    second: THE VOLCANO (quarter)_39
+  - first:
+      213: -2768157549859275088
+    second: THE VOLCANO (quarter)_40
+  - first:
+      213: 5034568959163473703
+    second: THE VOLCANO (quarter)_41
+  - first:
+      213: 6332198889639216340
+    second: THE VOLCANO (quarter)_42
+  - first:
+      213: 7537101410036953343
+    second: THE VOLCANO (quarter)_43
+  - first:
+      213: 5676925927531966182
+    second: THE VOLCANO (quarter)_44
+  - first:
+      213: -5142037896904868063
+    second: THE VOLCANO (quarter)_45
+  - first:
+      213: 6929722859162202363
+    second: THE VOLCANO (quarter)_46
+  - first:
+      213: -8222339732293889821
+    second: THE VOLCANO (quarter)_47
+  - first:
+      213: 8227186385493403665
+    second: THE VOLCANO (quarter)_48
+  - first:
+      213: 8753978346982494878
+    second: THE VOLCANO (quarter)_49
+  - first:
+      213: -3564679058552911644
+    second: THE VOLCANO (quarter)_50
+  - first:
+      213: 6213414993185008760
+    second: THE VOLCANO (quarter)_51
+  - first:
+      213: -5101045283946064524
+    second: THE VOLCANO (quarter)_52
+  - first:
+      213: -251737209211527573
+    second: THE VOLCANO (quarter)_53
+  - first:
+      213: 8442699115845310573
+    second: THE VOLCANO (quarter)_54
+  - first:
+      213: 1161287817917579921
+    second: THE VOLCANO (quarter)_55
+  - first:
+      213: 1466059397974690860
+    second: THE VOLCANO (quarter)_56
+  - first:
+      213: -6159688182893033746
+    second: THE VOLCANO (quarter)_57
+  - first:
+      213: -3645726867035426107
+    second: THE VOLCANO (quarter)_58
+  - first:
+      213: -3950490050320842022
+    second: THE VOLCANO (quarter)_59
+  - first:
+      213: 2585857602019188168
+    second: THE VOLCANO (quarter)_60
+  - first:
+      213: -7112866506187014723
+    second: THE VOLCANO (quarter)_61
+  - first:
+      213: 3181012096664164889
+    second: THE VOLCANO (quarter)_62
+  - first:
+      213: -2662144883468319263
+    second: THE VOLCANO (quarter)_63
+  - first:
+      213: -280688314081378265
+    second: THE VOLCANO (quarter)_64
+  - first:
+      213: 3608555487704130070
+    second: THE VOLCANO (quarter)_65
+  - first:
+      213: -2129743379323944579
+    second: THE VOLCANO (quarter)_66
+  - first:
+      213: -1485289374951971414
+    second: THE VOLCANO (quarter)_67
+  - first:
+      213: 1736010786907643369
+    second: THE VOLCANO (quarter)_68
+  - first:
+      213: -3609138772551541856
+    second: THE VOLCANO (quarter)_69
+  - first:
+      213: 6133835821679575653
+    second: THE VOLCANO (quarter)_70
+  - first:
+      213: 7356641653925257578
+    second: THE VOLCANO (quarter)_71
+  - first:
+      213: 665119454564782123
+    second: THE VOLCANO (quarter)_72
+  - first:
+      213: -1372503972546824208
+    second: THE VOLCANO (quarter)_73
+  - first:
+      213: -639863013821968009
+    second: THE VOLCANO (quarter)_74
+  - first:
+      213: -7704516266468217841
+    second: THE VOLCANO (quarter)_75
+  - first:
+      213: 7292612063540364032
+    second: THE VOLCANO (quarter)_76
+  - first:
+      213: -3789500292856782729
+    second: THE VOLCANO (quarter)_77
+  - first:
+      213: -1787051400708734300
+    second: THE VOLCANO (quarter)_78
+  - first:
+      213: 1685949270772241815
+    second: THE VOLCANO (quarter)_79
+  - first:
+      213: -6537234439465295693
+    second: THE VOLCANO (quarter)_80
+  - first:
+      213: -5690453877550273442
+    second: THE VOLCANO (quarter)_81
+  - first:
+      213: -3935289003584429976
+    second: THE VOLCANO (quarter)_82
+  - first:
+      213: 7119086148963976718
+    second: THE VOLCANO (quarter)_83
+  - first:
+      213: 7175546619385540118
+    second: THE VOLCANO (quarter)_84
+  - first:
+      213: -8226753851802037114
+    second: THE VOLCANO (quarter)_85
+  - first:
+      213: -416601258010603594
+    second: THE VOLCANO (quarter)_86
+  - first:
+      213: -5371772001753033743
+    second: THE VOLCANO (quarter)_87
+  - first:
+      213: 6649026863656074215
+    second: THE VOLCANO (quarter)_88
+  - first:
+      213: 8897401955138136979
+    second: THE VOLCANO (quarter)_89
+  - first:
+      213: 5004895343795332133
+    second: THE VOLCANO (quarter)_90
+  - first:
+      213: -8535795728720977483
+    second: THE VOLCANO (quarter)_91
+  - first:
+      213: 2192877580950399552
+    second: THE VOLCANO (quarter)_0
+  - first:
+      213: -4421396659941658018
+    second: THE VOLCANO (quarter)_1
+  - first:
+      213: -6959331867830834360
+    second: THE VOLCANO (quarter)_2
+  - first:
+      213: 5014306573174886750
+    second: THE VOLCANO (quarter)_3
+  - first:
+      213: -425045948778013475
+    second: THE VOLCANO (quarter)_4
+  - first:
+      213: -7592267481087982318
+    second: THE VOLCANO (quarter)_5
+  - first:
+      213: 8152599431431006874
+    second: THE VOLCANO (quarter)_6
+  - first:
+      213: 1798560216109443741
+    second: THE VOLCANO (quarter)_7
+  - first:
+      213: -3051648008285246462
+    second: THE VOLCANO (quarter)_8
+  - first:
+      213: -5218207122886360444
+    second: THE VOLCANO (quarter)_9
+  - first:
+      213: 627747154163480567
+    second: THE VOLCANO (quarter)_10
+  - first:
+      213: 74126796246173325
+    second: THE VOLCANO (quarter)_11
+  - first:
+      213: 4334662667173980813
+    second: THE VOLCANO (quarter)_12
+  - first:
+      213: 4038385247390825910
+    second: THE VOLCANO (quarter)_13
+  - first:
+      213: -1780126454271007718
+    second: THE VOLCANO (quarter)_14
+  - first:
+      213: 6233966193947752983
+    second: THE VOLCANO (quarter)_15
+  - first:
+      213: 109929598446083935
+    second: THE VOLCANO (quarter)_16
+  - first:
+      213: -7960778521664208379
+    second: THE VOLCANO (quarter)_17
+  - first:
+      213: 8758393884117213186
+    second: THE VOLCANO (quarter)_18
+  - first:
+      213: 1346436713879465215
+    second: THE VOLCANO (quarter)_19
+  - first:
+      213: -853167811836050079
+    second: THE VOLCANO (quarter)_20
+  - first:
+      213: -8685080760192566274
+    second: THE VOLCANO (quarter)_21
+  - first:
+      213: -1692202979973940234
+    second: THE VOLCANO (quarter)_22
+  - first:
+      213: 5949727777198673938
+    second: THE VOLCANO (quarter)_23
+  - first:
+      213: -8732986787819015202
+    second: THE VOLCANO (quarter)_24
+  - first:
+      213: 7420398879655597354
+    second: THE VOLCANO (quarter)_25
+  - first:
+      213: 6740484481389843549
+    second: THE VOLCANO (quarter)_26
+  - first:
+      213: -4384192441616150860
+    second: THE VOLCANO (quarter)_27
+  - first:
+      213: 3178104568965878387
+    second: THE VOLCANO (quarter)_28
+  - first:
+      213: 8329894859744376382
+    second: THE VOLCANO (quarter)_29
+  - first:
+      213: -5710185176772660760
+    second: THE VOLCANO (quarter)_30
+  - first:
+      213: 2545851852771031392
+    second: THE VOLCANO (quarter)_31
+  - first:
+      213: 5672801002925402223
+    second: THE VOLCANO (quarter)_32
+  - first:
+      213: -7421494232772926814
+    second: THE VOLCANO (quarter)_33
+  - first:
+      213: 5260234504780693808
+    second: THE VOLCANO (quarter)_34
+  - first:
+      213: -8989311617306102112
+    second: THE VOLCANO (quarter)_35
+  - first:
+      213: -8986546026984423957
+    second: THE VOLCANO (quarter)_36
+  - first:
+      213: -8799347777007766140
+    second: THE VOLCANO (quarter)_37
+  - first:
+      213: 6091146936961777149
+    second: THE VOLCANO (quarter)_38
+  - first:
+      213: 8340952625414757062
+    second: THE VOLCANO (quarter)_39
+  - first:
+      213: 1606518886070842851
+    second: THE VOLCANO (quarter)_40
+  - first:
+      213: -1790770850968686423
+    second: THE VOLCANO (quarter)_41
+  - first:
+      213: -8294392192623481679
+    second: THE VOLCANO (quarter)_42
+  - first:
+      213: -3073816846013177426
+    second: THE VOLCANO (quarter)_43
+  - first:
+      213: 7079015610045544245
+    second: THE VOLCANO (quarter)_44
+  - first:
+      213: 896394258075626749
+    second: THE VOLCANO (quarter)_45
+  - first:
+      213: 8089122716168137257
+    second: THE VOLCANO (quarter)_46
+  - first:
+      213: 3695458044694321138
+    second: THE VOLCANO (quarter)_47
+  - first:
+      213: -3769516479715472067
+    second: THE VOLCANO (quarter)_48
+  - first:
+      213: -6226177837938704539
+    second: THE VOLCANO (quarter)_49
+  - first:
+      213: 9120621395511146000
+    second: THE VOLCANO (quarter)_50
+  - first:
+      213: 6075060309116164966
+    second: THE VOLCANO (quarter)_51
+  - first:
+      213: -7166894337289248167
+    second: THE VOLCANO (quarter)_52
+  - first:
+      213: -4265810150120748849
+    second: THE VOLCANO (quarter)_53
+  - first:
+      213: -6424492544913388183
+    second: THE VOLCANO (quarter)_54
+  - first:
+      213: 3831592067506251556
+    second: THE VOLCANO (quarter)_55
+  - first:
+      213: 6606436915438551982
+    second: THE VOLCANO (quarter)_56
+  - first:
+      213: -4618812403559897693
+    second: THE VOLCANO (quarter)_57
+  - first:
+      213: 1021133889066800081
+    second: THE VOLCANO (quarter)_58
+  - first:
+      213: 7644790878954941227
+    second: THE VOLCANO (quarter)_59
+  - first:
+      213: 1369082378093218276
+    second: THE VOLCANO (quarter)_60
+  - first:
+      213: -6871032831276200134
+    second: THE VOLCANO (quarter)_61
+  - first:
+      213: 7787536359468496317
+    second: THE VOLCANO (quarter)_62
+  - first:
+      213: -388927197993236101
+    second: THE VOLCANO (quarter)_63
+  - first:
+      213: -1201262686128919099
+    second: THE VOLCANO (quarter)_64
+  - first:
+      213: -7172733044309203997
+    second: THE VOLCANO (quarter)_65
+  - first:
+      213: 791301718348623507
+    second: THE VOLCANO (quarter)_66
+  - first:
+      213: -4749239423887987484
+    second: THE VOLCANO (quarter)_67
+  - first:
+      213: 5329002408798531985
+    second: THE VOLCANO (quarter)_68
+  - first:
+      213: 5437255294771688550
+    second: THE VOLCANO (quarter)_69
+  - first:
+      213: 6536726513742244451
+    second: THE VOLCANO (quarter)_70
+  - first:
+      213: -542612704728063710
+    second: THE VOLCANO (quarter)_71
+  - first:
+      213: 2534002329959114970
+    second: THE VOLCANO (quarter)_72
+  - first:
+      213: 5896193739769866933
+    second: THE VOLCANO (quarter)_73
+  - first:
+      213: -1587936011929565278
+    second: THE VOLCANO (quarter)_74
+  - first:
+      213: 3138366660974637125
+    second: THE VOLCANO (quarter)_75
+  - first:
+      213: -13984177573240357
+    second: THE VOLCANO (quarter)_76
+  - first:
+      213: -2959152150700966832
+    second: THE VOLCANO (quarter)_77
+  - first:
+      213: -5981422189350349689
+    second: THE VOLCANO (quarter)_78
+  - first:
+      213: -7830680552083304550
+    second: THE VOLCANO (quarter)_79
+  - first:
+      213: -4382421755331826203
+    second: THE VOLCANO (quarter)_80
+  - first:
+      213: 7186095276767405282
+    second: THE VOLCANO (quarter)_81
+  - first:
+      213: 4592294221368324414
+    second: THE VOLCANO (quarter)_82
+  - first:
+      213: 285259788783781837
+    second: THE VOLCANO (quarter)_83
+  - first:
+      213: 1325313353841346098
+    second: THE VOLCANO (quarter)_84
+  - first:
+      213: -3332028625277506482
+    second: THE VOLCANO (quarter)_85
+  - first:
+      213: -4085928452635655762
+    second: THE VOLCANO (quarter)_86
+  - first:
+      213: -8147165290097162946
+    second: THE VOLCANO (quarter)_87
+  - first:
+      213: -6695154539688867239
+    second: THE VOLCANO (quarter)_88
+  - first:
+      213: 4406888319666309061
+    second: THE VOLCANO (quarter)_89
+  - first:
+      213: -3962522225845247119
+    second: THE VOLCANO (quarter)_90
+  - first:
+      213: 7389359557466212805
+    second: THE VOLCANO (quarter)_91
+  - first:
+      213: -5051554282369779164
+    second: THE VOLCANO (quarter)_92
+  - first:
+      213: 5142590358753110997
+    second: THE VOLCANO (quarter)_93
+  - first:
+      213: -4689004397995026912
+    second: THE VOLCANO (quarter)_94
+  - first:
+      213: 7088726273602816835
+    second: THE VOLCANO (quarter)_95
+  - first:
+      213: 5330802861253613367
+    second: THE VOLCANO (quarter)_92
+  - first:
+      213: 6423553736770448190
+    second: THE VOLCANO (quarter)_93
+  - first:
+      213: 4861266422861743469
+    second: THE VOLCANO (quarter)_94
+  - first:
+      213: 2486565803911556840
+    second: THE VOLCANO (quarter)_95
+  - first:
+      213: 9076527619291303448
+    second: THE VOLCANO (quarter)_96
+  - first:
+      213: 7636137612044373611
+    second: THE VOLCANO (quarter)_97
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1015
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a6770aa8aae6e10800000000000000
+      internalID: 2192877580950399552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1015
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e523411d92b04a2c0800000000000000
+      internalID: -4421396659941658018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1015
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b23efc98c7b6f90800000000000000
+      internalID: -6959331867830834360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1015
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51def8e245669540800000000000000
+      internalID: 5014306573174886750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1015
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc1ed926fee91af0800000000000000
+      internalID: -425045948778013475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1015
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215400693f8d2a690800000000000000
+      internalID: -7592267481087982318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a2f721df9d32170800000000000000
+      internalID: 8152599431431006874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 980
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a6a54ccf4c5f810800000000000000
+      internalID: 1798560216109443741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 980
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c21a60e4e56a5d0800000000000000
+      internalID: -3051648008285246462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 980
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48202fbd4443597b0800000000000000
+      internalID: -5218207122886360444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f73da4f5b436b800800000000000000
+      internalID: 627747154163480567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 945
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86479eade9570100800000000000000
+      internalID: 74126796246173325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 945
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a6d02dab0d72c30800000000000000
+      internalID: 4334662667173980813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 945
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd78e87cf93b0830800000000000000
+      internalID: 4038385247390825910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 945
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14a6eddb68bb47e0800000000000000
+      internalID: -1780126454271007718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 945
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71abc04793f738650800000000000000
+      internalID: 6233966193947752983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 945
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f1ea9236c868100800000000000000
+      internalID: 109929598446083935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 945
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50245a0dc12a58190800000000000000
+      internalID: -7960778521664208379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 910
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200a2c965d01c8970800000000000000
+      internalID: 8758393884117213186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 910
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc645bbe018fa210800000000000000
+      internalID: 1346436713879465215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 910
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16507b93560f824f0800000000000000
+      internalID: -853167811836050079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 910
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb742b6015687780800000000000000
+      internalID: -8685080760192566274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 910
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbbbcafa561488e0800000000000000
+      internalID: -1692202979973940234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 910
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210933ee3eda19250800000000000000
+      internalID: 5949727777198673938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 910
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed33edb29c23ec680800000000000000
+      internalID: -8732986787819015202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_25
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 910
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a251491577d8af660800000000000000
+      internalID: 7420398879655597354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5456475ce20b8d50800000000000000
+      internalID: 6740484481389843549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 735
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be448ae3383823c0800000000000000
+      internalID: -4384192441616150860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372d1446445ea1c20800000000000000
+      internalID: 3178104568965878387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 700
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e367a63cd3bb99370800000000000000
+      internalID: 8329894859744376382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 665
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1b3c8e5d851c0b0800000000000000
+      internalID: -5710185176772660760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 665
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069ff2785cea45320800000000000000
+      internalID: 2545851852771031392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 665
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6829d4d476d9be40800000000000000
+      internalID: 5672801002925402223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 665
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2a5f8e05e810990800000000000000
+      internalID: -7421494232772926814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_34
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 665
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031c4b4896b100940800000000000000
+      internalID: 5260234504780693808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_35
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 665
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a67d2326bc8f3380800000000000000
+      internalID: -8989311617306102112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_36
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 630
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed35ef4000694380800000000000000
+      internalID: -8986546026984423957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 630
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485345851df62e580800000000000000
+      internalID: -8799347777007766140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 630
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdb05cedd9188450800000000000000
+      internalID: 6091146936961777149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_39
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 630
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca5536783401c370800000000000000
+      internalID: 8340952625414757062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_40
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 630
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e575394a608b4610800000000000000
+      internalID: 1606518886070842851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_41
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 630
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a033e12667e527e0800000000000000
+      internalID: -1790770850968686423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc67e21f3664ec80800000000000000
+      internalID: -8294392192623481679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1e5c44ddb9755d0800000000000000
+      internalID: -3073816846013177426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_44
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537b53ce037bd3260800000000000000
+      internalID: 7079015610045544245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_45
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc2c4314d1a07c00800000000000000
+      internalID: 896394258075626749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_46
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92aaeb99046524070800000000000000
+      internalID: 8089122716168137257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f75d542387e84330800000000000000
+      internalID: 3695458044694321138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_48
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d0493cbbcffabc0800000000000000
+      internalID: -3769516479715472067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ff04d7e3c2899a0800000000000000
+      internalID: -6226177837938704539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016f44a06d4f29e70800000000000000
+      internalID: 9120621395511146000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_51
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b91f10a23fe4450800000000000000
+      internalID: 6075060309116164966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_52
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952ad1372931a8c90800000000000000
+      internalID: -7166894337289248167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc80cca054cccc4c0800000000000000
+      internalID: -4265810150120748849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dca4e911e97d6a0800000000000000
+      internalID: -6424492544913388183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_55
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4272aeb4fac8c2530800000000000000
+      internalID: 3831592067506251556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea30eb74f57ceab50800000000000000
+      internalID: 6606436915438551982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_57
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5e4a9279ea6efb0800000000000000
+      internalID: -4618812403559897693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_58
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d390f5acdbcb2e00800000000000000
+      internalID: 1021133889066800081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_59
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b6142fcc0c71a60800000000000000
+      internalID: 7644790878954941227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_60
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e94e7e4b25fff210800000000000000
+      internalID: 1369082378093218276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_61
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f4cb35b0035a0a0800000000000000
+      internalID: -6871032831276200134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5fe8d0f03e21c60800000000000000
+      internalID: 7787536359468496317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_63
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79002826c04a9af0800000000000000
+      internalID: -388927197993236101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdaa5793f1445fe0800000000000000
+      internalID: -1201262686128919099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_65
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e36e398c45557c90800000000000000
+      internalID: -7172733044309203997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e635868b44bfa00800000000000000
+      internalID: 791301718348623507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec20e118ef471eb0800000000000000
+      internalID: -4749239423887987484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_68
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19133afd47b64f940800000000000000
+      internalID: 5329002408798531985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_69
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6647afdf1e2057b40800000000000000
+      internalID: 5437255294771688550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aeb75912e17ba50800000000000000
+      internalID: 6536726513742244451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_71
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221e114be904878f0800000000000000
+      internalID: -542612704728063710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_72
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8a93181b59a2320800000000000000
+      internalID: 2534002329959114970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_73
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba6dd987fc73d150800000000000000
+      internalID: 5896193739769866933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_74
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a743e24c9486f9e0800000000000000
+      internalID: -1587936011929565278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_75
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5407252b9d7bd8b20800000000000000
+      internalID: 3138366660974637125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_76
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1654fe6715ecff0800000000000000
+      internalID: -13984177573240357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_77
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cb2251ccafee6d0800000000000000
+      internalID: -2959152150700966832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_78
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7841220b538bdfca0800000000000000
+      internalID: -5981422189350349689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_79
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fc38fc685d35390800000000000000
+      internalID: -7830680552083304550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_80
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eda081f1a28e23c0800000000000000
+      internalID: -4382421755331826203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_81
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e465d5a4932ab360800000000000000
+      internalID: 7186095276767405282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_82
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31fcb8634b1bbf30800000000000000
+      internalID: 4592294221368324414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_83
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7092b344275f300800000000000000
+      internalID: 285259788783781837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_84
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2368bc73975746210800000000000000
+      internalID: 1325313353841346098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_85
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ca6e08e9142c1d0800000000000000
+      internalID: -3332028625277506482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea18df278bddb47c0800000000000000
+      internalID: -4085928452635655762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_87
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35cd5d85547fee80800000000000000
+      internalID: -8147165290097162946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_88
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a40892b680613a0800000000000000
+      internalID: -6695154539688867239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_89
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7478af399682d30800000000000000
+      internalID: 4406888319666309061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_90
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17367e9a70b4209c0800000000000000
+      internalID: -3962522225845247119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_91
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c94964fd574c8660800000000000000
+      internalID: 7389359557466212805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_92
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73758a065f0daf940800000000000000
+      internalID: 5330802861253613367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_93
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3be5d3171c052950800000000000000
+      internalID: 6423553736770448190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6545353e00b67340800000000000000
+      internalID: 4861266422861743469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_95
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee28cc9c6e028220800000000000000
+      internalID: 2486565803911556840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_96
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e41edb7cd46fd70800000000000000
+      internalID: 9076527619291303448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO (quarter)_97
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e87ed33b209f960800000000000000
+      internalID: 7636137612044373611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

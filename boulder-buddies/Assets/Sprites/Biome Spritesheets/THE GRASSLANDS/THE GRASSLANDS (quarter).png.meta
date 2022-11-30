@@ -1,0 +1,2755 @@
+fileFormatVersion: 2
+guid: 1056276c60f56a94ebae81eb54b40d3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8824449531702919017
+    second: THE GRASSLANDS (quarter)_0
+  - first:
+      213: -1357186541497657211
+    second: THE GRASSLANDS (quarter)_1
+  - first:
+      213: -1109163438440288597
+    second: THE GRASSLANDS (quarter)_2
+  - first:
+      213: -2532357124029315974
+    second: THE GRASSLANDS (quarter)_3
+  - first:
+      213: -2627830983420873271
+    second: THE GRASSLANDS (quarter)_4
+  - first:
+      213: 8866312155963535395
+    second: THE GRASSLANDS (quarter)_5
+  - first:
+      213: -7977541600083574471
+    second: THE GRASSLANDS (quarter)_6
+  - first:
+      213: 7579894524102313979
+    second: THE GRASSLANDS (quarter)_7
+  - first:
+      213: 305661238455351104
+    second: THE GRASSLANDS (quarter)_8
+  - first:
+      213: 3641206290301758555
+    second: THE GRASSLANDS (quarter)_9
+  - first:
+      213: -7235182378456318140
+    second: THE GRASSLANDS (quarter)_10
+  - first:
+      213: 5443491417676901832
+    second: THE GRASSLANDS (quarter)_11
+  - first:
+      213: -6795251455578689206
+    second: THE GRASSLANDS (quarter)_12
+  - first:
+      213: -2081421869521098220
+    second: THE GRASSLANDS (quarter)_13
+  - first:
+      213: -1826396736070416962
+    second: THE GRASSLANDS (quarter)_14
+  - first:
+      213: 6524391256765190839
+    second: THE GRASSLANDS (quarter)_15
+  - first:
+      213: 35242635262393737
+    second: THE GRASSLANDS (quarter)_16
+  - first:
+      213: -4551332324491956427
+    second: THE GRASSLANDS (quarter)_17
+  - first:
+      213: 7244044538392992767
+    second: THE GRASSLANDS (quarter)_18
+  - first:
+      213: 3954089329083139454
+    second: THE GRASSLANDS (quarter)_19
+  - first:
+      213: 5923929102747453213
+    second: THE GRASSLANDS (quarter)_20
+  - first:
+      213: -5335019671719554042
+    second: THE GRASSLANDS (quarter)_21
+  - first:
+      213: 8698126062858465558
+    second: THE GRASSLANDS (quarter)_22
+  - first:
+      213: -7660177724057832000
+    second: THE GRASSLANDS (quarter)_23
+  - first:
+      213: -686611277848050429
+    second: THE GRASSLANDS (quarter)_24
+  - first:
+      213: -8131432920503552541
+    second: THE GRASSLANDS (quarter)_25
+  - first:
+      213: 3580859935668436050
+    second: THE GRASSLANDS (quarter)_26
+  - first:
+      213: -856514100373423763
+    second: THE GRASSLANDS (quarter)_27
+  - first:
+      213: 1003822045876129522
+    second: THE GRASSLANDS (quarter)_28
+  - first:
+      213: -2349578764297009893
+    second: THE GRASSLANDS (quarter)_29
+  - first:
+      213: 5013655409623882515
+    second: THE GRASSLANDS (quarter)_30
+  - first:
+      213: 8787621511469650989
+    second: THE GRASSLANDS (quarter)_31
+  - first:
+      213: -7874352569558993803
+    second: THE GRASSLANDS (quarter)_32
+  - first:
+      213: 5811820719611943388
+    second: THE GRASSLANDS (quarter)_33
+  - first:
+      213: -6275168170319755416
+    second: THE GRASSLANDS (quarter)_34
+  - first:
+      213: -8866622656953920893
+    second: THE GRASSLANDS (quarter)_35
+  - first:
+      213: 6732037896956561868
+    second: THE GRASSLANDS (quarter)_36
+  - first:
+      213: -4169226272613351841
+    second: THE GRASSLANDS (quarter)_37
+  - first:
+      213: 7854593175523222450
+    second: THE GRASSLANDS (quarter)_38
+  - first:
+      213: -6852977903383345808
+    second: THE GRASSLANDS (quarter)_39
+  - first:
+      213: -7684760910625488082
+    second: THE GRASSLANDS (quarter)_40
+  - first:
+      213: 6499319795856356416
+    second: THE GRASSLANDS (quarter)_41
+  - first:
+      213: -669608660954822024
+    second: THE GRASSLANDS (quarter)_42
+  - first:
+      213: -4154778324922552871
+    second: THE GRASSLANDS (quarter)_43
+  - first:
+      213: 1692588536080852646
+    second: THE GRASSLANDS (quarter)_44
+  - first:
+      213: -5440194892067742794
+    second: THE GRASSLANDS (quarter)_45
+  - first:
+      213: 4277812321715394413
+    second: THE GRASSLANDS (quarter)_46
+  - first:
+      213: 4207690089596031570
+    second: THE GRASSLANDS (quarter)_47
+  - first:
+      213: 1716415521213415431
+    second: THE GRASSLANDS (quarter)_48
+  - first:
+      213: -5189037437015710108
+    second: THE GRASSLANDS (quarter)_49
+  - first:
+      213: 6929558338023016965
+    second: THE GRASSLANDS (quarter)_50
+  - first:
+      213: -7703566788830644311
+    second: THE GRASSLANDS (quarter)_51
+  - first:
+      213: 7104544722161683279
+    second: THE GRASSLANDS (quarter)_52
+  - first:
+      213: -6343984984467500875
+    second: THE GRASSLANDS (quarter)_53
+  - first:
+      213: 3383045237086574040
+    second: THE GRASSLANDS (quarter)_54
+  - first:
+      213: -726921657398437548
+    second: THE GRASSLANDS (quarter)_55
+  - first:
+      213: 2207704428480487456
+    second: THE GRASSLANDS (quarter)_56
+  - first:
+      213: -1336840992512136825
+    second: THE GRASSLANDS (quarter)_57
+  - first:
+      213: 2057428321443788101
+    second: THE GRASSLANDS (quarter)_58
+  - first:
+      213: -4139481184850598898
+    second: THE GRASSLANDS (quarter)_59
+  - first:
+      213: -387667653426681633
+    second: THE GRASSLANDS (quarter)_60
+  - first:
+      213: -4530608854591900730
+    second: THE GRASSLANDS (quarter)_61
+  - first:
+      213: 2746495932825613452
+    second: THE GRASSLANDS (quarter)_62
+  - first:
+      213: 5498566533754214584
+    second: THE GRASSLANDS (quarter)_63
+  - first:
+      213: -3954090099124507358
+    second: THE GRASSLANDS (quarter)_64
+  - first:
+      213: -5358593307349234388
+    second: THE GRASSLANDS (quarter)_65
+  - first:
+      213: 753876356396276486
+    second: THE GRASSLANDS (quarter)_66
+  - first:
+      213: 3572210008595913879
+    second: THE GRASSLANDS (quarter)_67
+  - first:
+      213: 2549272457379605218
+    second: THE GRASSLANDS (quarter)_68
+  - first:
+      213: -7145551379193486566
+    second: THE GRASSLANDS (quarter)_69
+  - first:
+      213: -8527272989912323846
+    second: THE GRASSLANDS (quarter)_70
+  - first:
+      213: -8459813325052274391
+    second: THE GRASSLANDS (quarter)_71
+  - first:
+      213: -710608979889563773
+    second: THE GRASSLANDS (quarter)_72
+  - first:
+      213: 4041034263975401962
+    second: THE GRASSLANDS (quarter)_73
+  - first:
+      213: 8843012745054316696
+    second: THE GRASSLANDS (quarter)_74
+  - first:
+      213: 5334482248688972007
+    second: THE GRASSLANDS (quarter)_75
+  - first:
+      213: 7594154664257897548
+    second: THE GRASSLANDS (quarter)_76
+  - first:
+      213: -8420308288843199779
+    second: THE GRASSLANDS (quarter)_77
+  - first:
+      213: -7527224309659800093
+    second: THE GRASSLANDS (quarter)_78
+  - first:
+      213: 7754439061170490242
+    second: THE GRASSLANDS (quarter)_79
+  - first:
+      213: -624676515139175225
+    second: THE GRASSLANDS (quarter)_80
+  - first:
+      213: -5425353516828523459
+    second: THE GRASSLANDS (quarter)_81
+  - first:
+      213: -4317673976561521862
+    second: THE GRASSLANDS (quarter)_82
+  - first:
+      213: 1483624742212095354
+    second: THE GRASSLANDS (quarter)_83
+  - first:
+      213: -7513983313921992752
+    second: THE GRASSLANDS (quarter)_84
+  - first:
+      213: -3402335115776062895
+    second: THE GRASSLANDS (quarter)_85
+  - first:
+      213: -2952460235761077562
+    second: THE GRASSLANDS (quarter)_86
+  - first:
+      213: 2291326390009663188
+    second: THE GRASSLANDS (quarter)_87
+  - first:
+      213: -7112845542909337032
+    second: THE GRASSLANDS (quarter)_88
+  - first:
+      213: -1849777865254500288
+    second: THE GRASSLANDS (quarter)_89
+  - first:
+      213: 3776994754214095361
+    second: THE GRASSLANDS (quarter)_90
+  - first:
+      213: -3880263516982526022
+    second: THE GRASSLANDS (quarter)_91
+  - first:
+      213: 8997526081087827955
+    second: THE GRASSLANDS (quarter)_92
+  - first:
+      213: 6910478146779220876
+    second: THE GRASSLANDS (quarter)_93
+  - first:
+      213: -8647978389126954607
+    second: THE GRASSLANDS (quarter)_94
+  - first:
+      213: -4682998531736402447
+    second: THE GRASSLANDS (quarter)_95
+  - first:
+      213: -5166383229495854708
+    second: THE GRASSLANDS (quarter)_0
+  - first:
+      213: 5040305199188869588
+    second: THE GRASSLANDS (quarter)_1
+  - first:
+      213: 6007594283976540160
+    second: THE GRASSLANDS (quarter)_2
+  - first:
+      213: -784752985202755546
+    second: THE GRASSLANDS (quarter)_3
+  - first:
+      213: -4554429431124468530
+    second: THE GRASSLANDS (quarter)_4
+  - first:
+      213: -8816785740636544555
+    second: THE GRASSLANDS (quarter)_5
+  - first:
+      213: 5688810942564033381
+    second: THE GRASSLANDS (quarter)_6
+  - first:
+      213: 1073158602306856729
+    second: THE GRASSLANDS (quarter)_7
+  - first:
+      213: 5238976843897736299
+    second: THE GRASSLANDS (quarter)_8
+  - first:
+      213: -8633597967156541948
+    second: THE GRASSLANDS (quarter)_9
+  - first:
+      213: -7885342609129048132
+    second: THE GRASSLANDS (quarter)_10
+  - first:
+      213: 7654817614709802658
+    second: THE GRASSLANDS (quarter)_11
+  - first:
+      213: -1816317192389987767
+    second: THE GRASSLANDS (quarter)_12
+  - first:
+      213: -4381729327340944603
+    second: THE GRASSLANDS (quarter)_13
+  - first:
+      213: -742839857493252177
+    second: THE GRASSLANDS (quarter)_14
+  - first:
+      213: -1468127281119817045
+    second: THE GRASSLANDS (quarter)_15
+  - first:
+      213: 3782523860867728691
+    second: THE GRASSLANDS (quarter)_16
+  - first:
+      213: 6978017914168622982
+    second: THE GRASSLANDS (quarter)_17
+  - first:
+      213: -7966413731113147265
+    second: THE GRASSLANDS (quarter)_18
+  - first:
+      213: -6366751988345001926
+    second: THE GRASSLANDS (quarter)_19
+  - first:
+      213: -1488484380027041237
+    second: THE GRASSLANDS (quarter)_20
+  - first:
+      213: 1768816979357198191
+    second: THE GRASSLANDS (quarter)_21
+  - first:
+      213: -3463722306290257202
+    second: THE GRASSLANDS (quarter)_22
+  - first:
+      213: 7517724044230825365
+    second: THE GRASSLANDS (quarter)_23
+  - first:
+      213: 6421259502865236225
+    second: THE GRASSLANDS (quarter)_24
+  - first:
+      213: -1158766114202612529
+    second: THE GRASSLANDS (quarter)_25
+  - first:
+      213: 3903493729131747255
+    second: THE GRASSLANDS (quarter)_26
+  - first:
+      213: 4310297728449569076
+    second: THE GRASSLANDS (quarter)_27
+  - first:
+      213: -5794409924994608701
+    second: THE GRASSLANDS (quarter)_28
+  - first:
+      213: -2711999325506348111
+    second: THE GRASSLANDS (quarter)_29
+  - first:
+      213: -9025480890682316792
+    second: THE GRASSLANDS (quarter)_30
+  - first:
+      213: 5136669731871156098
+    second: THE GRASSLANDS (quarter)_31
+  - first:
+      213: 8713308795555036770
+    second: THE GRASSLANDS (quarter)_32
+  - first:
+      213: 5831435315621524142
+    second: THE GRASSLANDS (quarter)_33
+  - first:
+      213: -2594071074269612595
+    second: THE GRASSLANDS (quarter)_34
+  - first:
+      213: 4959739486401917535
+    second: THE GRASSLANDS (quarter)_35
+  - first:
+      213: 4584089205513951796
+    second: THE GRASSLANDS (quarter)_36
+  - first:
+      213: 6417425214885841910
+    second: THE GRASSLANDS (quarter)_37
+  - first:
+      213: -5772167798763971252
+    second: THE GRASSLANDS (quarter)_38
+  - first:
+      213: -8722534692163832010
+    second: THE GRASSLANDS (quarter)_39
+  - first:
+      213: -3214979328423389153
+    second: THE GRASSLANDS (quarter)_40
+  - first:
+      213: -1814085447834781363
+    second: THE GRASSLANDS (quarter)_41
+  - first:
+      213: 1057402436266777124
+    second: THE GRASSLANDS (quarter)_42
+  - first:
+      213: -1511932978395540027
+    second: THE GRASSLANDS (quarter)_43
+  - first:
+      213: -4674443107749336763
+    second: THE GRASSLANDS (quarter)_44
+  - first:
+      213: 7153678180452339229
+    second: THE GRASSLANDS (quarter)_45
+  - first:
+      213: 2235470037605142267
+    second: THE GRASSLANDS (quarter)_46
+  - first:
+      213: 6800559566241520946
+    second: THE GRASSLANDS (quarter)_47
+  - first:
+      213: 2895793287637400939
+    second: THE GRASSLANDS (quarter)_48
+  - first:
+      213: 4965089530873900896
+    second: THE GRASSLANDS (quarter)_49
+  - first:
+      213: 8963560976295088268
+    second: THE GRASSLANDS (quarter)_50
+  - first:
+      213: 8756262503615922826
+    second: THE GRASSLANDS (quarter)_51
+  - first:
+      213: -2740320563947483838
+    second: THE GRASSLANDS (quarter)_52
+  - first:
+      213: -3005566963665673732
+    second: THE GRASSLANDS (quarter)_53
+  - first:
+      213: -7518438122416988586
+    second: THE GRASSLANDS (quarter)_54
+  - first:
+      213: 5935981356753428616
+    second: THE GRASSLANDS (quarter)_55
+  - first:
+      213: 413264357138791233
+    second: THE GRASSLANDS (quarter)_56
+  - first:
+      213: 7723067469548716715
+    second: THE GRASSLANDS (quarter)_57
+  - first:
+      213: 4215395638185528619
+    second: THE GRASSLANDS (quarter)_58
+  - first:
+      213: -3915150217066168053
+    second: THE GRASSLANDS (quarter)_59
+  - first:
+      213: 3284317020461242667
+    second: THE GRASSLANDS (quarter)_60
+  - first:
+      213: -8908115799817553151
+    second: THE GRASSLANDS (quarter)_61
+  - first:
+      213: -1415867282965132643
+    second: THE GRASSLANDS (quarter)_62
+  - first:
+      213: -1022096103664707503
+    second: THE GRASSLANDS (quarter)_63
+  - first:
+      213: -3323503495495700233
+    second: THE GRASSLANDS (quarter)_64
+  - first:
+      213: 2423561226034784964
+    second: THE GRASSLANDS (quarter)_65
+  - first:
+      213: -3497830477564940106
+    second: THE GRASSLANDS (quarter)_66
+  - first:
+      213: -9175013882408033141
+    second: THE GRASSLANDS (quarter)_67
+  - first:
+      213: -3700689355941058132
+    second: THE GRASSLANDS (quarter)_68
+  - first:
+      213: 955051439682139064
+    second: THE GRASSLANDS (quarter)_69
+  - first:
+      213: 3238776941766875091
+    second: THE GRASSLANDS (quarter)_70
+  - first:
+      213: -8364023092551412484
+    second: THE GRASSLANDS (quarter)_71
+  - first:
+      213: -8697851302971002571
+    second: THE GRASSLANDS (quarter)_72
+  - first:
+      213: 1720794951534439696
+    second: THE GRASSLANDS (quarter)_73
+  - first:
+      213: -5172103954486300329
+    second: THE GRASSLANDS (quarter)_74
+  - first:
+      213: -3512347443672424461
+    second: THE GRASSLANDS (quarter)_75
+  - first:
+      213: -6997296915249172370
+    second: THE GRASSLANDS (quarter)_76
+  - first:
+      213: 4052627550173857512
+    second: THE GRASSLANDS (quarter)_77
+  - first:
+      213: 2685095751344008275
+    second: THE GRASSLANDS (quarter)_78
+  - first:
+      213: -13017192871765999
+    second: THE GRASSLANDS (quarter)_79
+  - first:
+      213: -19635524043461121
+    second: THE GRASSLANDS (quarter)_80
+  - first:
+      213: 4852400887245822683
+    second: THE GRASSLANDS (quarter)_81
+  - first:
+      213: -35952507896164879
+    second: THE GRASSLANDS (quarter)_82
+  - first:
+      213: -191994282407156618
+    second: THE GRASSLANDS (quarter)_83
+  - first:
+      213: 8035139177905430682
+    second: THE GRASSLANDS (quarter)_84
+  - first:
+      213: 8973531147418844000
+    second: THE GRASSLANDS (quarter)_85
+  - first:
+      213: -963842792986961793
+    second: THE GRASSLANDS (quarter)_86
+  - first:
+      213: -2510738281184763388
+    second: THE GRASSLANDS (quarter)_87
+  - first:
+      213: -7773676769064148551
+    second: THE GRASSLANDS (quarter)_88
+  - first:
+      213: -8844388689012296354
+    second: THE GRASSLANDS (quarter)_89
+  - first:
+      213: 2841229108283004863
+    second: THE GRASSLANDS (quarter)_90
+  - first:
+      213: 7799334782301323311
+    second: THE GRASSLANDS (quarter)_91
+  - first:
+      213: -3080675054498043390
+    second: THE GRASSLANDS (quarter)_92
+  - first:
+      213: -3973704840722863739
+    second: THE GRASSLANDS (quarter)_93
+  - first:
+      213: 1297297167256611983
+    second: THE GRASSLANDS (quarter)_94
+  - first:
+      213: 8192904465975324105
+    second: THE GRASSLANDS (quarter)_95
+  - first:
+      213: 2020192428218568175
+    second: THE GRASSLANDS (quarter)_96
+  - first:
+      213: -1912734576720948692
+    second: THE GRASSLANDS (quarter)_97
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1015
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c893d5053d15d48b0800000000000000
+      internalID: -5166383229495854708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1015
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1053dbfd2c2f540800000000000000
+      internalID: 5040305199188869588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1015
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000c613fb234f5350800000000000000
+      internalID: 6007594283976540160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1015
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628ff88515ffb15f0800000000000000
+      internalID: -784752985202755546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1015
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccdd33109a6bc0c0800000000000000
+      internalID: -4554429431124468530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1015
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d121ac051c74a580800000000000000
+      internalID: -8816785740636544555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56362e16967b2fe40800000000000000
+      internalID: 5688810942564033381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 980
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917a72e1010a4ee00800000000000000
+      internalID: 1073158602306856729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 980
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c8507aea594b840800000000000000
+      internalID: 5238976843897736299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 980
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4068912446c4f2880800000000000000
+      internalID: -8633597967156541948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb77c92eca2a19290800000000000000
+      internalID: -7885342609129048132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 945
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a64e2940106b3a60800000000000000
+      internalID: 7654817614709802658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 945
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942f82403252bc6e0800000000000000
+      internalID: -1816317192389987767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 945
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5238ee56468f033c0800000000000000
+      internalID: -4381729327340944603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 945
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7ec19d517e0b5f0800000000000000
+      internalID: -742839857493252177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 945
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba21bcb240a20abe0800000000000000
+      internalID: -1468127281119817045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 945
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335c57929693e7430800000000000000
+      internalID: 3782523860867728691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 945
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f35526256e6d060800000000000000
+      internalID: 6978017914168622982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 910
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74e43f5bec917190800000000000000
+      internalID: -7966413731113147265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 910
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a382fa19cc0c4a7a0800000000000000
+      internalID: -6366751988345001926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 910
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a45cab757d75be0800000000000000
+      internalID: -1488484380027041237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 910
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67e34fcba91c8810800000000000000
+      internalID: 1768816979357198191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 910
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2f8fcf9e26eefc0800000000000000
+      internalID: -3463722306290257202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 910
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5959ac70032545860800000000000000
+      internalID: 7517724044230825365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 910
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10142ee1f75ec1950800000000000000
+      internalID: 6421259502865236225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_25
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 910
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc8139cb5c3befe0800000000000000
+      internalID: -1158766114202612529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7dcd37ddefb2630800000000000000
+      internalID: 3903493729131747255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 735
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431e86472f041db30800000000000000
+      internalID: 4310297728449569076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1d2b19fde169fa0800000000000000
+      internalID: -5794409924994608701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 700
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb58147bfa0d5ad0800000000000000
+      internalID: -2711999325506348111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 665
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808edcfe2fc0fb280800000000000000
+      internalID: -9025480890682316792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 665
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2876ea8e7ed194740800000000000000
+      internalID: 5136669731871156098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 665
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e38593f24ebe870800000000000000
+      internalID: 8713308795555036770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 665
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2f946f58b6de050800000000000000
+      internalID: 5831435315621524142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_34
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 665
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc53b081a12000cd0800000000000000
+      internalID: -2594071074269612595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_35
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 665
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52f679f8c884d440800000000000000
+      internalID: 4959739486401917535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_36
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 630
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a9c5948d4fd9f30800000000000000
+      internalID: 4584089205513951796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 630
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbc7e16b364f0950800000000000000
+      internalID: 6417425214885841910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 630
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d99b228f325efa0800000000000000
+      internalID: -5772167798763971252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_39
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 630
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637bd8459e453f680800000000000000
+      internalID: -8722534692163832010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_40
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 630
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f189911a5591263d0800000000000000
+      internalID: -3214979328423389153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_41
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 630
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d493a9985e213d6e0800000000000000
+      internalID: -1814085447834781363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a5056d9e5acae00800000000000000
+      internalID: 1057402436266777124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5198a77f8840be0800000000000000
+      internalID: -1511932978395540027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_44
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549e3df72ca012fb0800000000000000
+      internalID: -4674443107749336763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_45
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e035f3768f64360800000000000000
+      internalID: 7153678180452339229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_46
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfecb79b72cf50f10800000000000000
+      internalID: 2235470037605142267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dd5b305e0706e50800000000000000
+      internalID: 6800559566241520946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_48
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d769c07acef2820800000000000000
+      internalID: 2895793287637400939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fefb54f9a87e440800000000000000
+      internalID: 4965089530873900896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c805f9a8737f46c70800000000000000
+      internalID: 8963560976295088268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_51
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a828918ba5e748970800000000000000
+      internalID: 8756262503615922826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_52
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d463747fc68f9d0800000000000000
+      internalID: -2740320563947483838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1ee0e45c41a46d0800000000000000
+      internalID: -3005566963665673732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e949fac5429a790800000000000000
+      internalID: -7518438122416988586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_55
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88021a20897d06250800000000000000
+      internalID: 5935981356753428616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b76954eb53cb500800000000000000
+      internalID: 413264357138791233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_57
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba283dae1f8dd2b60800000000000000
+      internalID: 7723067469548716715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_58
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d87c1bff7108a30800000000000000
+      internalID: 4215395638185528619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_59
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b014a75fe979aa9c0800000000000000
+      internalID: -3915150217066168053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_60
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b299c56ddec349d20800000000000000
+      internalID: 3284317020461242667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_61
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b74d590e3006480800000000000000
+      internalID: -8908115799817553151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a04cd2534d95ce0800000000000000
+      internalID: -1415867282965132643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_63
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15811ce4209c0d1f0800000000000000
+      internalID: -1022096103664707503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0b535fd2b80e1d0800000000000000
+      internalID: -3323503495495700233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_65
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caa631381832a120800000000000000
+      internalID: 2423561226034784964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0f43486b5357fc0800000000000000
+      internalID: -3497830477564940106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84aac93c7dcba080800000000000000
+      internalID: -9175013882408033141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_68
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9601b43a284acc0800000000000000
+      internalID: -3700689355941058132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_69
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3ba7c6936014d00800000000000000
+      internalID: 955051439682139064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d79db0087272fc20800000000000000
+      internalID: 3238776941766875091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_71
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf41f43df450deb80800000000000000
+      internalID: -8364023092551412484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_72
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531be39b2560b4780800000000000000
+      internalID: -8697851302971002571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_73
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dee7924ed71e710800000000000000
+      internalID: 1720794951534439696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_74
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751737b3bdef838b0800000000000000
+      internalID: -5172103954486300329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_75
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff5724fb92a14fc0800000000000000
+      internalID: -3512347443672424461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_76
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60f2a2678b94ee90800000000000000
+      internalID: -6997296915249172370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_77
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6031ff843dd3830800000000000000
+      internalID: 4052627550173857512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_78
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c25ce0c50634520800000000000000
+      internalID: 2685095751344008275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_79
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118d7ea9ee0c1dff0800000000000000
+      internalID: -13017192871765999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_80
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd296c489d3abff0800000000000000
+      internalID: -19635524043461121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_81
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdad318d5e0375340800000000000000
+      internalID: 4852400887245822683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_82
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd80127265408ff0800000000000000
+      internalID: -35952507896164879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_83
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6742736a736e55df0800000000000000
+      internalID: -191994282407156618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_84
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90a0e3a28c828f60800000000000000
+      internalID: 8035139177905430682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_85
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bbdc6e803688c70800000000000000
+      internalID: 8973531147418844000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7811b0261ebf92f0800000000000000
+      internalID: -963842792986961793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_87
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402e102f5d0182dd0800000000000000
+      internalID: -2510738281184763388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_88
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1a93d4a2a5e1490800000000000000
+      internalID: -7773676769064148551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_89
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5570ffc85b624580800000000000000
+      internalID: -8844388689012296354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_90
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb755bc02d21e6720800000000000000
+      internalID: 2841229108283004863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_91
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f204b6f69adcc3c60800000000000000
+      internalID: 7799334782301323311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_92
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aac3c2c5e3f35d0800000000000000
+      internalID: -3080675054498043390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_93
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589a67e30809ad8c0800000000000000
+      internalID: -3973704840722863739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c637676ece00210800000000000000
+      internalID: 1297297167256611983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_95
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdab25343b03b170800000000000000
+      internalID: 8192904465975324105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_96
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedc6ed5f4a290c10800000000000000
+      internalID: 2020192428218568175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE GRASSLANDS (quarter)_97
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22d0fc590a9475e0800000000000000
+      internalID: -1912734576720948692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

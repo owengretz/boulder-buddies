@@ -1,0 +1,2185 @@
+fileFormatVersion: 2
+guid: b35155a188511a24bb3bf7f317a75829
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3418563576130564166
+    second: THE VOLCANO_0
+  - first:
+      213: -7265134987526042646
+    second: THE VOLCANO_1
+  - first:
+      213: -2194358038447708222
+    second: THE VOLCANO_2
+  - first:
+      213: 6384588538757135394
+    second: THE VOLCANO_3
+  - first:
+      213: -3811253330076575672
+    second: THE VOLCANO_4
+  - first:
+      213: 706894083786798871
+    second: THE VOLCANO_5
+  - first:
+      213: -8516482016425335418
+    second: THE VOLCANO_6
+  - first:
+      213: 7556669217617816406
+    second: THE VOLCANO_7
+  - first:
+      213: -7210982517354783900
+    second: THE VOLCANO_8
+  - first:
+      213: -6563098864720747456
+    second: THE VOLCANO_9
+  - first:
+      213: 3919269264934437396
+    second: THE VOLCANO_10
+  - first:
+      213: -2235980159664999040
+    second: THE VOLCANO_11
+  - first:
+      213: -4566939967926255693
+    second: THE VOLCANO_12
+  - first:
+      213: 2210064083195772601
+    second: THE VOLCANO_13
+  - first:
+      213: 8812357941663425154
+    second: THE VOLCANO_14
+  - first:
+      213: 8153042056165574859
+    second: THE VOLCANO_15
+  - first:
+      213: 4266470816638337307
+    second: THE VOLCANO_16
+  - first:
+      213: -4880448710444142107
+    second: THE VOLCANO_17
+  - first:
+      213: -1949763310486083138
+    second: THE VOLCANO_18
+  - first:
+      213: -1085508522543226859
+    second: THE VOLCANO_19
+  - first:
+      213: -8598886136375958840
+    second: THE VOLCANO_20
+  - first:
+      213: 4772596451344270418
+    second: THE VOLCANO_21
+  - first:
+      213: 8684768422081780045
+    second: THE VOLCANO_22
+  - first:
+      213: -2400800055399690394
+    second: THE VOLCANO_23
+  - first:
+      213: -3144493557917743070
+    second: THE VOLCANO_24
+  - first:
+      213: -5164970346620907651
+    second: THE VOLCANO_25
+  - first:
+      213: 2438867415490828915
+    second: THE VOLCANO_26
+  - first:
+      213: -3862224558498800408
+    second: THE VOLCANO_27
+  - first:
+      213: -2242088583643831072
+    second: THE VOLCANO_28
+  - first:
+      213: -5370916915620137378
+    second: THE VOLCANO_29
+  - first:
+      213: 5424314059512058407
+    second: THE VOLCANO_30
+  - first:
+      213: -1217397288275389443
+    second: THE VOLCANO_31
+  - first:
+      213: -1723242295874464280
+    second: THE VOLCANO_32
+  - first:
+      213: 7319886350798083033
+    second: THE VOLCANO_33
+  - first:
+      213: -1768830351057220987
+    second: THE VOLCANO_34
+  - first:
+      213: -6886744440332399085
+    second: THE VOLCANO_35
+  - first:
+      213: -2218277332701142624
+    second: THE VOLCANO_36
+  - first:
+      213: -7784031628381137507
+    second: THE VOLCANO_37
+  - first:
+      213: 3252729083026128548
+    second: THE VOLCANO_38
+  - first:
+      213: 7120631503051620142
+    second: THE VOLCANO_39
+  - first:
+      213: 2164793622795285948
+    second: THE VOLCANO_40
+  - first:
+      213: -5997228487600265492
+    second: THE VOLCANO_41
+  - first:
+      213: -6381095950675902704
+    second: THE VOLCANO_42
+  - first:
+      213: 504727254184340003
+    second: THE VOLCANO_43
+  - first:
+      213: -7255879725581904591
+    second: THE VOLCANO_44
+  - first:
+      213: -3110319963462311262
+    second: THE VOLCANO_45
+  - first:
+      213: 4423016691609926810
+    second: THE VOLCANO_46
+  - first:
+      213: -2677235604841617993
+    second: THE VOLCANO_47
+  - first:
+      213: 6594692634254763761
+    second: THE VOLCANO_48
+  - first:
+      213: 6463581964194139463
+    second: THE VOLCANO_49
+  - first:
+      213: 2621903384446641185
+    second: THE VOLCANO_50
+  - first:
+      213: 2325362712359272930
+    second: THE VOLCANO_51
+  - first:
+      213: 1349070512876215504
+    second: THE VOLCANO_52
+  - first:
+      213: -4038049653105151824
+    second: THE VOLCANO_53
+  - first:
+      213: -3923923155813964904
+    second: THE VOLCANO_54
+  - first:
+      213: -3403053778654025409
+    second: THE VOLCANO_55
+  - first:
+      213: -451063837038471868
+    second: THE VOLCANO_56
+  - first:
+      213: 7317414503191697453
+    second: THE VOLCANO_57
+  - first:
+      213: -6565818833726133788
+    second: THE VOLCANO_58
+  - first:
+      213: 5896466274157913815
+    second: THE VOLCANO_59
+  - first:
+      213: 1837327632679253954
+    second: THE VOLCANO_60
+  - first:
+      213: -9185989191485391821
+    second: THE VOLCANO_61
+  - first:
+      213: -3883972043437171054
+    second: THE VOLCANO_62
+  - first:
+      213: 4900395720883008249
+    second: THE VOLCANO_63
+  - first:
+      213: 8057973326624522159
+    second: THE VOLCANO_64
+  - first:
+      213: -1814465157436265402
+    second: THE VOLCANO_65
+  - first:
+      213: -2666153190996698331
+    second: THE VOLCANO_66
+  - first:
+      213: 2481562152008820765
+    second: THE VOLCANO_67
+  - first:
+      213: -5296405604122799958
+    second: THE VOLCANO_68
+  - first:
+      213: -8716231092991518037
+    second: THE VOLCANO_69
+  - first:
+      213: -4557035956916122465
+    second: THE VOLCANO_70
+  - first:
+      213: 5428825948529698883
+    second: THE VOLCANO_71
+  - first:
+      213: -7395541242429294623
+    second: THE VOLCANO_72
+  - first:
+      213: 7228352619480210932
+    second: THE VOLCANO_73
+  - first:
+      213: -448235900735202229
+    second: THE VOLCANO_74
+  - first:
+      213: -4829250714118417869
+    second: THE VOLCANO_75
+  - first:
+      213: -263246157411727434
+    second: THE VOLCANO_76
+  - first:
+      213: -3747535869328325107
+    second: THE VOLCANO_77
+  - first:
+      213: -4696177708585823653
+    second: THE VOLCANO_78
+  - first:
+      213: 2423152075807729708
+    second: THE VOLCANO_79
+  - first:
+      213: -2494487213804002372
+    second: THE VOLCANO_80
+  - first:
+      213: -5738917446073949748
+    second: THE VOLCANO_81
+  - first:
+      213: -6550235030136215819
+    second: THE VOLCANO_82
+  - first:
+      213: 7021596984605816235
+    second: THE VOLCANO_83
+  - first:
+      213: 5116794455066754064
+    second: THE VOLCANO_84
+  - first:
+      213: 1640264752145040463
+    second: THE VOLCANO_85
+  - first:
+      213: 8060026469029447072
+    second: THE VOLCANO_86
+  - first:
+      213: 7656137171501195231
+    second: THE VOLCANO_87
+  - first:
+      213: 4140599357881060495
+    second: THE VOLCANO_88
+  - first:
+      213: -784385512659253297
+    second: THE VOLCANO_89
+  - first:
+      213: 6000442450645538671
+    second: THE VOLCANO_0
+  - first:
+      213: 1679609348779860767
+    second: THE VOLCANO_1
+  - first:
+      213: 2216765879998337509
+    second: THE VOLCANO_2
+  - first:
+      213: -8553554543030181174
+    second: THE VOLCANO_3
+  - first:
+      213: 1747515927183615830
+    second: THE VOLCANO_4
+  - first:
+      213: -7148701340488293749
+    second: THE VOLCANO_5
+  - first:
+      213: -3097493650608940352
+    second: THE VOLCANO_6
+  - first:
+      213: 9186270346952309409
+    second: THE VOLCANO_7
+  - first:
+      213: 6373695067242121549
+    second: THE VOLCANO_8
+  - first:
+      213: -6908285867824253318
+    second: THE VOLCANO_9
+  - first:
+      213: -7831656219826652431
+    second: THE VOLCANO_10
+  - first:
+      213: -7263160183544970097
+    second: THE VOLCANO_11
+  - first:
+      213: -3784380285906871245
+    second: THE VOLCANO_12
+  - first:
+      213: -1660400791743247277
+    second: THE VOLCANO_13
+  - first:
+      213: 7269080694169933974
+    second: THE VOLCANO_14
+  - first:
+      213: 1582940984500016855
+    second: THE VOLCANO_15
+  - first:
+      213: 1350631931654113939
+    second: THE VOLCANO_16
+  - first:
+      213: 3881615334711162193
+    second: THE VOLCANO_17
+  - first:
+      213: 2795749521004111896
+    second: THE VOLCANO_18
+  - first:
+      213: 5299226968415863943
+    second: THE VOLCANO_19
+  - first:
+      213: 8590418031860502577
+    second: THE VOLCANO_20
+  - first:
+      213: 1075499574860445405
+    second: THE VOLCANO_21
+  - first:
+      213: 7358227578456715510
+    second: THE VOLCANO_22
+  - first:
+      213: -6964789716546902999
+    second: THE VOLCANO_23
+  - first:
+      213: -7959074665746789767
+    second: THE VOLCANO_24
+  - first:
+      213: 1118097161690696387
+    second: THE VOLCANO_25
+  - first:
+      213: 5247197315030067136
+    second: THE VOLCANO_26
+  - first:
+      213: -7887911380904747451
+    second: THE VOLCANO_27
+  - first:
+      213: -9055924055345775624
+    second: THE VOLCANO_28
+  - first:
+      213: -2962718671896569953
+    second: THE VOLCANO_29
+  - first:
+      213: -4821259661308951925
+    second: THE VOLCANO_30
+  - first:
+      213: 1704265092352880190
+    second: THE VOLCANO_31
+  - first:
+      213: -2647795250662094468
+    second: THE VOLCANO_32
+  - first:
+      213: 45667730298269943
+    second: THE VOLCANO_33
+  - first:
+      213: -6276121899360276636
+    second: THE VOLCANO_34
+  - first:
+      213: -3122167866479199579
+    second: THE VOLCANO_35
+  - first:
+      213: 1084266298233838618
+    second: THE VOLCANO_36
+  - first:
+      213: 6801301011524934741
+    second: THE VOLCANO_37
+  - first:
+      213: -7506631069976025219
+    second: THE VOLCANO_38
+  - first:
+      213: -5239893762972019875
+    second: THE VOLCANO_39
+  - first:
+      213: 4124128462988243809
+    second: THE VOLCANO_40
+  - first:
+      213: -8330562066267557953
+    second: THE VOLCANO_41
+  - first:
+      213: -7554174499072249625
+    second: THE VOLCANO_42
+  - first:
+      213: 2874473141821761058
+    second: THE VOLCANO_43
+  - first:
+      213: 2984334698581218803
+    second: THE VOLCANO_44
+  - first:
+      213: 6692057667704401481
+    second: THE VOLCANO_45
+  - first:
+      213: 133513753531915210
+    second: THE VOLCANO_46
+  - first:
+      213: -2863603260128871965
+    second: THE VOLCANO_47
+  - first:
+      213: 7666886043140908636
+    second: THE VOLCANO_48
+  - first:
+      213: 164979103152810656
+    second: THE VOLCANO_49
+  - first:
+      213: 3814585291056481717
+    second: THE VOLCANO_50
+  - first:
+      213: 605185942758406779
+    second: THE VOLCANO_51
+  - first:
+      213: -6923719240876887832
+    second: THE VOLCANO_52
+  - first:
+      213: 6416446289431956835
+    second: THE VOLCANO_53
+  - first:
+      213: 3758998297228654558
+    second: THE VOLCANO_54
+  - first:
+      213: -3283395656989092325
+    second: THE VOLCANO_55
+  - first:
+      213: -1335141247959197543
+    second: THE VOLCANO_56
+  - first:
+      213: -8048567825956097653
+    second: THE VOLCANO_57
+  - first:
+      213: 6601058233715721727
+    second: THE VOLCANO_58
+  - first:
+      213: 6789353074254537439
+    second: THE VOLCANO_59
+  - first:
+      213: 1134519960785258487
+    second: THE VOLCANO_60
+  - first:
+      213: 8566489218919309330
+    second: THE VOLCANO_61
+  - first:
+      213: -7710125587623091387
+    second: THE VOLCANO_62
+  - first:
+      213: -1089539074913603418
+    second: THE VOLCANO_63
+  - first:
+      213: -2381358361174791841
+    second: THE VOLCANO_64
+  - first:
+      213: 4631820748064901078
+    second: THE VOLCANO_65
+  - first:
+      213: -8890047914611109814
+    second: THE VOLCANO_66
+  - first:
+      213: -1188050412853051652
+    second: THE VOLCANO_67
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: THE VOLCANO_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67d6edfd9ad54350800000000000000
+      internalID: 6000442450645538671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 980
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13e273cdcb2f4710800000000000000
+      internalID: 1679609348779860767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 980
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1d18ba2d883ce10800000000000000
+      internalID: 2216765879998337509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 980
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2e1c7367bab4980800000000000000
+      internalID: -8553554543030181174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 910
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657ed1f1a7c604810800000000000000
+      internalID: 1747515927183615830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 910
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8226da9106bacc90800000000000000
+      internalID: -7148701340488293749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 910
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca1d6d9fed7305d0800000000000000
+      internalID: -3097493650608940352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 910
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aafbc8a5303c7f70800000000000000
+      internalID: 9186270346952309409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 910
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4940a5f4e9e37850800000000000000
+      internalID: 6373695067242121549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 910
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76fb79da96d020a0800000000000000
+      internalID: -6908285867824253318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 910
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faf046792e505390800000000000000
+      internalID: -7831656219826652431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_11
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 910
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f848a018b42143b90800000000000000
+      internalID: -7263160183544970097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_12
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 910
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c97833e2e2b7bc0800000000000000
+      internalID: -3784380285906871245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ccd5fe64215f8e0800000000000000
+      internalID: -1660400791743247277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 840
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69816abc066f0e460800000000000000
+      internalID: 7269080694169933974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 840
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6d789407cb7f510800000000000000
+      internalID: 1582940984500016855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 840
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a0b8cf5986eb210800000000000000
+      internalID: 1350631931654113939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 840
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155fa2cc4944ed530800000000000000
+      internalID: 3881615334711162193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_18
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 840
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8182b68706f7cc620800000000000000
+      internalID: 2795749521004111896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 840
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784099ce9d2aa8940800000000000000
+      internalID: 5299226968415863943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_20
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 840
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130d72d9fab473770800000000000000
+      internalID: 8590418031860502577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_21
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 840
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6f3a34a21fcee00800000000000000
+      internalID: 1075499574860445405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0356e3ffcad1660800000000000000
+      internalID: 7358227578456715510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 700
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924ade167a8185f90800000000000000
+      internalID: -6964789716546902999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_24
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 700
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a0a5fa2cfab8190800000000000000
+      internalID: -7959074665746789767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_25
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 700
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca42f2d177448f00800000000000000
+      internalID: 1118097161690696387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c720cc382ac1d840800000000000000
+      internalID: 5247197315030067136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 630
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e59691462888290800000000000000
+      internalID: -7887911380904747451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 630
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb33305d05e25280800000000000000
+      internalID: -9055924055345775624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_29
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 630
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f971038a01f42e6d0800000000000000
+      internalID: -2962718671896569953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_30
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 630
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8282c5d1e1771db0800000000000000
+      internalID: -4821259661308951925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_31
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 630
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eaac86214c6a710800000000000000
+      internalID: 1704265092352880190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79c1568f34214bd0800000000000000
+      internalID: -2647795250662094468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 560
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0702a0f8e32a000800000000000000
+      internalID: 45667730298269943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 560
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fa495826cb6e8a0800000000000000
+      internalID: -6276121899360276636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 560
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa3e5d0ed4dba4d0800000000000000
+      internalID: -3122167866479199579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_36
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 560
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cd72c14761c0f00800000000000000
+      internalID: 1084266298233838618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_37
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 560
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cd2723c33136e50800000000000000
+      internalID: 6801301011524934741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d772b2e40d613d790800000000000000
+      internalID: -7506631069976025219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 490
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53944d72682847b0800000000000000
+      internalID: -5239893762972019875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_40
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 490
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163fd7c8cf8db3930800000000000000
+      internalID: 4124128462988243809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_41
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 490
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf27cc10f5e36c80800000000000000
+      internalID: -8330562066267557953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0fb7b115e2a2790800000000000000
+      internalID: -7554174499072249625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 350
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226efa6c71e24e720800000000000000
+      internalID: 2874473141821761058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_44
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 350
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f55ecfb89c7a6920800000000000000
+      internalID: 2984334698581218803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_45
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 350
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e23f32ef6fedc50800000000000000
+      internalID: 6692057667704401481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_46
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 350
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb16eb2d065ad100800000000000000
+      internalID: 133513753531915210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_47
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 350
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e93e56c1007248d0800000000000000
+      internalID: -2863603260128871965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5660de3c30466a60800000000000000
+      internalID: 7666886043140908636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_49
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 280
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa29c6ce9f1a4200800000000000000
+      internalID: 164979103152810656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 280
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b50ad69c1120f430800000000000000
+      internalID: 3814585291056481717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_51
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 280
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7abc25986d066800800000000000000
+      internalID: 605185942758406779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0fefaa8020aef90800000000000000
+      internalID: -6923719240876887832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_53
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 210
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d07f987ebcb0950800000000000000
+      internalID: 6416446289431956835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_54
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 210
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7bc990905aa2430800000000000000
+      internalID: 3758998297228654558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_55
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 210
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16da10db090f62d0800000000000000
+      internalID: -3283395656989092325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9989b6edb10a87de0800000000000000
+      internalID: -1335141247959197543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_57
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 140
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81bf37943ebd4090800000000000000
+      internalID: -8048567825956097653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_58
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff50b4a5d7bab9b50800000000000000
+      internalID: 6601058233715721727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_59
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 140
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2e5a546a0a83e50800000000000000
+      internalID: 6789353074254537439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_60
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 140
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f70235b4ef9ebf00800000000000000
+      internalID: 1134519960785258487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_61
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 140
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21026e1be8842e670800000000000000
+      internalID: 8566489218919309330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_62
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 140
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5436318c0a1200590800000000000000
+      internalID: -7710125587623091387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_63
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 140
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0fdd6ebfd21e0f0800000000000000
+      internalID: -1089539074913603418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59254fff27b3fed0800000000000000
+      internalID: -2381358361174791841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_65
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 70
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d741bf0e68874040800000000000000
+      internalID: 4631820748064901078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_66
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 70
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40176de58430a480800000000000000
+      internalID: -8890047914611109814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 70
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe33aea172338fe0800000000000000
+      internalID: -1188050412853051652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_68
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 70
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa05fd32a236f76b0800000000000000
+      internalID: -5296405604122799958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_69
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 70
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa9602600ab90780800000000000000
+      internalID: -8716231092991518037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c055ff0f722c0c0800000000000000
+      internalID: -4557035956916122465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_71
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3482981ef60175b40800000000000000
+      internalID: 5428825948529698883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_72
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7304b5c62cd5990800000000000000
+      internalID: -7395541242429294623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_73
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdd163f864405460800000000000000
+      internalID: 7228352619480210932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_74
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cd919b2db87c9f0800000000000000
+      internalID: -448235900735202229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: THE VOLCANO_75
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3329baddf0e0bfcb0800000000000000
+      internalID: -4829250714118417869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
