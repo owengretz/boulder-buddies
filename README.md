@@ -1,2 +1,2 @@
-# boulder-buddies
+# README
  
